@@ -1,17 +1,28 @@
 {
-    "name": "typo3-incubator/site-surfcamp-2025",
+    "name": "surfcamp-events",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "TYPO3 CMS Core Team",
-            "role": "Developer",
-            "homepage": "https://forge.typo3.org/projects/typo3cms-core"
+            "name": "Alexander Grübling",
+            "role": "Developer"
         },
         {
-            "name": "The TYPO3 Community",
-            "role": "Contributor",
-            "homepage": "https://typo3.org/community/"
+            "name": "Rafal Jania",
+            "role": "Developer"
+        },
+        {
+            "name": "Niles Langlotz",
+            "role": "Developer"
+        },
+        {
+            "name": "Lena Ebner",
+            "role": "Developer",
+            "homepage": "https://lenaebner.com"
+        },
+        {
+            "name": "Benjamin Franzke",
+            "role": "Mentor"
         }
     ],
     "repositories": {
