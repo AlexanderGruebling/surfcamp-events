@@ -19,4 +19,33 @@ In addition to a standard list view, events can also be displayed as a timeline 
 
 -   TYPO 13
 
-This project was developed during the second edition of TYPO3 Surfcamp in Fuerteventura 2025.
+## Preview
+
+<details>
+  <summary>Click here to get a preview of what the extension looks like</summary>
+
+### Appointments Generator
+
+<img src="./images/appointments-generator-recurring.png" width="500px" />
+
+### Backend Module Overview
+
+<img src="./images/backend-module.png" width="500px" />
+
+### Event Registrations
+
+<img src="./images/event-registration.png" width="500px" />
+
+### Map View
+
+<img src="./images/map-events.png" width="500px" />
+
+### Timeline View
+
+<img src="./images/timeline.png" width="500px" />
+
+### Different Timezone
+
+<img src="./images/different-timezones.png" width="500px" />
+
+</details>
