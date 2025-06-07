@@ -1,5 +1,5 @@
 {
-    "name": "surfcamp-events",
+    "name": "typo3-incubator/ext-surfcamp-events",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [

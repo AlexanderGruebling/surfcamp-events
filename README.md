@@ -1,4 +1,9 @@
+<div align="center">
+<img src="./images/logo.jpg" width="100px" />
+
 # EXT:Surfcamp-Events
+
+</div>
 
 Extension for managing Events in the TYPO3 Backend.
 
@@ -18,6 +23,10 @@ In addition to a standard list view, events can also be displayed as a timeline 
 ## Requirements
 
 -   TYPO 13
+
+## Installation
+
+`composer require typo3-incubator/surfcamp-events`
 
 ## Preview
 
