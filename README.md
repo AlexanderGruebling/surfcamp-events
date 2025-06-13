@@ -26,7 +26,7 @@ In addition to a standard list view, events can also be displayed as a timeline 
 
 ## Installation
 
-`composer require typo3-incubator/surfcamp-events`
+`composer require typo3-incubator/event-wave`
 
 ## Preview
 
