@@ -1,13 +1,13 @@
 <div align="center">
 <img src="./images/logo.jpg" width="100px" />
 
-# EXT:Surfcamp-Events
+# EXT:EventWave
 
 </div>
 
 Extension for managing Events in the TYPO3 Backend.
 
-EXT:Surfcamp-Events offers the possibility to automatically generate single and reoccurring events, based on predefined time patterns, like "every other week", "only Wednesdays", etc..
+EXT:EventWave offers the possibility to automatically generate single and reoccurring events, based on predefined time patterns, like "every other week", "only Wednesdays", etc..
 
 It also features a really robust way of handling timezones, allowing for Events in different regions.
 
